@@ -1,4 +1,4 @@
-# bills
+# cuentas
 
 ## Project setup
 ```
